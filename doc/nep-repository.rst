@@ -7,7 +7,7 @@
 NetEye Extension Package offers two online resources for development and support:
 
 * NEP's Jira Project Dashboard
-* Wuerth Phoenix's Anonymous BitBucket Repository
+* NEP's Public GitHub Repository
 
 These resources are available to help the End User in:
 
@@ -27,12 +27,12 @@ All the task and issues related to NetEye Extension Pack can be freely accessed 
 - `Released issues <https://siwuerthphoenix.atlassian.net/issues/?filter=16287>`_
 
 
-Wuerth Phoenix's Anonymous BitBucket Repository
-===============================================
-NetEye Extension Pack complete code and contents are available at our Anonymous BitBucket Repository.
-To easily get all the contents, just select the desired branch (or just keep on the ``master`` branch) and download the whole project as a ZIP File.
-If you like to work with GitHub (or just use the ``git`` utility), clone the desider branch on yhour system.
+NEP's Public GitHub Repository
+===============================
+NetEye Extension Pack complete code and contents are available at NEP's Public GitHub Repository.
+To easily get all the contents, just select the desired branch (or just keep on the ``main`` branch) and download the whole project as a ZIP File.
+If you like to work with GitHub (or just use the ``git`` utility), clone the desired branch on your system.
 
-To access the BitBucket Repository, please refer to the following URL:
+To access the GitHub Repository, please refer to the following URL:
 
-`https://bitbucket.org/siwuerthphoenix/nep/src/master/ <https://bitbucket.org/siwuerthphoenix/nep/src/master/>`_
+`https://github.com/neteye-platform/nep <https://github.com/neteye-platform/nep>`_

@@ -10,7 +10,7 @@ This table describes all the available packages and their purposes, along with a
 
 .. |link-pre| raw:: html
 
-    <a href="https://bitbucket.org/siwuerthphoenix/nep/src/maint-
+    <a href="https://github.com/neteye-platform/nep/tree/maint-
 
 .. |nep-common| raw:: html
 
