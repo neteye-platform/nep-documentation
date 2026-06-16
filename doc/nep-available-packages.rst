@@ -10,203 +10,203 @@ This table describes all the available packages and their purposes, along with a
 
 .. |link-pre| raw:: html
 
-    <a href="https://bitbucket.org/siwuerthphoenix/nep/src/maint-
+    <a href="https://github.com/neteye-platform/nep/tree/maint-
 
 .. |nep-common| raw:: html
 
-    /nep-common/">nep-common</a>
+    /nep/nep-common/">nep-common</a>
 
 .. |nep-notification-base| raw:: html
 
-    /nep-notification-base/">nep-notification-base</a>
+    /nep/nep-notification-base/">nep-notification-base</a>
 
 .. |nep-notification-email| raw:: html
 
-    /nep-notification-email/">nep-notification-email</a>
+    /nep/nep-notification-email/">nep-notification-email</a>
 
 .. |nep-notification-opsgenie| raw:: html
 
-    /nep-notification-opsgenie/">nep-notification-opsgenie</a>
+    /nep/nep-notification-opsgenie/">nep-notification-opsgenie</a>
 
 .. |nep-notification-msteams| raw:: html
 
-    /nep-notification-msteams/">nep-notification-msteams</a>
+    /nep/nep-notification-msteams/">nep-notification-msteams</a>
 
 .. |nep-notification-phonecall| raw:: html
 
-    /nep-notification-phonecall/">nep-notification-phonecall</a>
+    /nep/nep-notification-phonecall/">nep-notification-phonecall</a>
 
 .. |nep-notification-servicenow| raw:: html
 
-    /nep-notification-servicenow/">nep-notification-servicenow</a>
+    /nep/nep-notification-servicenow/">nep-notification-servicenow</a>
 
 .. |nep-notification-sms| raw:: html
 
-    /nep-notification-sms/">nep-notification-sms</a>
+    /nep/nep-notification-sms/">nep-notification-sms</a>
 
 .. |nep-notification-telegram| raw:: html
 
-    /nep-notification-telegram/">nep-notification-telegram</a>
+    /nep/nep-notification-telegram/">nep-notification-telegram</a>
 
 .. |nep-nrpe-base| raw:: html
 
-    /nep-nrpe-base/">nep-nrpe-base</a>
+    /nep/nep-nrpe-base/">nep-nrpe-base</a>
 
 .. |nep-windows-icinga-powershell-base| raw:: html
 
-    /nep-windows-icinga-powershell-base/">nep-windows-icinga-powershell-base</a>
+    /nep/nep-windows-icinga-powershell-base/">nep-windows-icinga-powershell-base</a>
 
 .. |nep-centreon-plugins-base| raw:: html
 
-    /nep-centreon-plugins-base/">nep-centreon-plugins-base</a>
+    /nep/nep-centreon-plugins-base/">nep-centreon-plugins-base</a>
 
 .. |nep-monitoring-core| raw:: html
 
-    /nep-monitoring-core/">nep-monitoring-core</a>
+    /nep/nep-monitoring-core/">nep-monitoring-core</a>
 
 .. |nep-monitoring-siem| raw:: html
 
-    /nep-monitoring-siem/">nep-monitoring-siem</a>
+    /nep/nep-monitoring-siem/">nep-monitoring-siem</a>
 
 .. |nep-monitoring-asset| raw:: html
 
-    /nep-monitoring-asset/">nep-monitoring-asset</a>
+    /nep/nep-monitoring-asset/">nep-monitoring-asset</a>
 
 .. |nep-monitoring-vmd| raw:: html
 
-    /nep-monitoring-vmd/">nep-monitoring-vmd</a>
+    /nep/nep-monitoring-vmd/">nep-monitoring-vmd</a>
 
 .. |nep-network-base| raw:: html
 
-    /nep-network-base/">nep-network-base</a>
+    /nep/nep-network-base/">nep-network-base</a>
 
 .. |nep-network-apc-netbotz| raw:: html
 
-    /nep-network-apc-netbotz/">nep-network-apc-netbotz</a>
+    /nep/nep-network-apc-netbotz/">nep-network-apc-netbotz</a>
 
 .. |nep-network-cisco-standard| raw:: html
 
-    /nep-network-cisco-standard/">nep-network-cisco-standard</a>
+    /nep/nep-network-cisco-standard/">nep-network-cisco-standard</a>
 
 .. |nep-network-cisco-wlc| raw:: html
 
-    /nep-network-cisco-wlc/">nep-network-cisco-wlc</a>
+    /nep/nep-network-cisco-wlc/">nep-network-cisco-wlc</a>
 
 .. |nep-network-dell-idrac| raw:: html
 
-    /nep-network-dell-idrac/">nep-network-dell-idrac</a>
+    /nep/nep-network-dell-idrac/">nep-network-dell-idrac</a>
 
 .. |nep-network-dell-switch| raw:: html
 
-    /nep-network-dell-switch/">nep-network-dell-switch</a>
+    /nep/nep-network-dell-switch/">nep-network-dell-switch</a>
 
 .. |nep-network-kemp-load-balancer| raw:: html
 
-    /nep-network-kemp-load-balancer/">nep-network-kemp-load-balancer</a>
+    /nep/nep-network-kemp-load-balancer/">nep-network-kemp-load-balancer</a>
 
 .. |nep-network-citrix-load-balancer| raw:: html
 
-    /nep-network-citrix-load-balancer/">nep-network-citrix-load-balancer</a>
+    /nep/nep-network-citrix-load-balancer/">nep-network-citrix-load-balancer</a>
 
 .. |nep-network-messpc-ethernetbox| raw:: html
 
-    /nep-network-messpc-ethernetbox/">nep-network-messpc-ethernetbox</a>
+    /nep/nep-network-messpc-ethernetbox/">nep-network-messpc-ethernetbox</a>
 
 .. |nep-network-checkpoint-firewall| raw:: html
 
-    /nep-network-checkpoint-firewall/">nep-network-checkpoint-firewall</a>
+    /nep/nep-network-checkpoint-firewall/">nep-network-checkpoint-firewall</a>
 
 .. |nep-network-paloalto-firewall| raw:: html
 
-    /nep-network-paloalto-firewall/">nep-network-paloalto-firewall</a>
+    /nep/nep-network-paloalto-firewall/">nep-network-paloalto-firewall</a>
 
 .. |nep-network-sophos-firewall| raw:: html
 
-    /nep-network-sophos-firewall/">nep-network-sophos-firewall</a>
+    /nep/nep-network-sophos-firewall/">nep-network-sophos-firewall</a>
 
 .. |nep-network-pfsense-firewall| raw:: html
 
-    /nep-network-pfsense-firewall/">nep-network-pfsense-firewall</a>
+    /nep/nep-network-pfsense-firewall/">nep-network-pfsense-firewall</a>
 
 .. |nep-network-ups| raw:: html
 
-    /nep-network-ups/">nep-network-ups</a>
+    /nep/nep-network-ups/">nep-network-ups</a>
 
 .. |nep-network-printer| raw:: html
 
-    /nep-network-printer/">nep-network-printer</a>
+    /nep/nep-network-printer/">nep-network-printer</a>
 
 .. |nep-vmware-api| raw:: html
 
-    /nep-vmware-api/">nep-vmware-api</a>
+    /nep/nep-vmware-api/">nep-vmware-api</a>
 
 .. |nep-vmware-vmd| raw:: html
 
-    /nep-vmware-vmd/">nep-vmware-vmd</a>
+    /nep/nep-vmware-vmd/">nep-vmware-vmd</a>
 
 .. |nep-dbms-base| raw:: html
 
-    /nep-dbms-base/">nep-dbms-base</a>
+    /nep/nep-dbms-base/">nep-dbms-base</a>
 
 .. |nep-database-oracle| raw:: html
 
-    /nep-database-oracle/">nep-database-oracle</a>
+    /nep/nep-database-oracle/">nep-database-oracle</a>
 
 .. |nep-server-dns| raw:: html
 
-    /nep-server-dns/">nep-server-dns</a>
+    /nep/nep-server-dns/">nep-server-dns</a>
 
 .. |nep-server-ntp| raw:: html
 
-    /nep-server-ntp/">nep-server-ntp</a>
+    /nep/nep-server-ntp/">nep-server-ntp</a>
 
 .. |nep-server-email| raw:: html
 
-    /nep-server-email/">nep-server-email</a>
+    /nep/nep-server-email/">nep-server-email</a>
 
 .. |nep-storage-base| raw:: html
 
-    /nep-storage-base/">nep-storage-base</a>
+    /nep/nep-storage-base/">nep-storage-base</a>
 
 .. |nep-storage-emc| raw:: html
 
-    /nep-storage-emc/">nep-storage-emc</a>
+    /nep/nep-storage-emc/">nep-storage-emc</a>
 
 .. |nep-storage-ibm| raw:: html
 
-    /nep-storage-ibm/">nep-storage-ibm</a>
+    /nep/nep-storage-ibm/">nep-storage-ibm</a>
 
 .. |nep-storage-netapp| raw:: html
 
-    /nep-storage-netapp/">nep-storage-netapp</a>
+    /nep/nep-storage-netapp/">nep-storage-netapp</a>
 
 .. |nep-storage-qnap| raw:: html
 
-    /nep-storage-qnap/">nep-storage-qnap</a>
+    /nep/nep-storage-qnap/">nep-storage-qnap</a>
 
 .. |nep-website| raw:: html
 
-    /nep-website/">nep-website</a>
+    /nep/nep-website/">nep-website</a>
 
 .. |nep-windows-active-directory| raw:: html
 
-    /nep-windows-active-directory/">nep-windows-active-directory</a>
+    /nep/nep-windows-active-directory/">nep-windows-active-directory</a>
 
 .. |nep-windows-server-exchange| raw:: html
 
-    /nep-windows-server-exchange/">nep-windows-server-exchange</a>
+    /nep/nep-windows-server-exchange/">nep-windows-server-exchange</a>
 
 .. |nep-alyvix| raw:: html
 
-    /nep-alyvix/">nep-alyvix</a>
+    /nep/nep-alyvix/">nep-alyvix</a>
 
 .. |nep-influxdb-query| raw:: html
 
-    /nep-influxdb-query/">nep-influxdb-query</a>
+    /nep/nep-influxdb-query/">nep-influxdb-query</a>
 
 .. |nep-windows-wsman| raw:: html
 
-    /nep-windows-wsman/">nep-windows-wsman</a>
+    /nep/nep-windows-wsman/">nep-windows-wsman</a>
 
 =============================================================================== =================================================================================================== ==================================
 NEP Name                                                                        Description                                                                                         Required NEPs (besides nep-common)
