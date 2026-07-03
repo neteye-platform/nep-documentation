@@ -6,10 +6,10 @@
 
 As described at :ref:`Online Resources<nep-online-resources>`, NetEye Extension Packs can be obtained through two main channels:
 
-* Wuerth IT's RPM Repository ``neteye-contrib``
+* Würth IT's RPM Repository ``neteye-contrib``
 * NEP's Repository on GitHub
 
-Wuerth IT's RPM Repository ``neteye-contrib`` is *the official channel*: through it, all the Official Stable Versions of NEP are made available via RPM package. Those RPMs will have the sole duty of making all necessary contents available for installation, allowing the End User to import only the strictly required objects. Each version of NetEye will come with its set of compatible NEPs packed inside the proper RPM. This channel is freely accessible by all Wuerth IT's Customers.
+Würth IT's RPM Repository ``neteye-contrib`` is *the official channel*: through it, all the Official Stable Versions of NEP are made available via RPM package. Those RPMs will have the sole duty of making all necessary contents available for installation, allowing the End User to import only the strictly required objects. Each version of NetEye will come with its set of compatible NEPs packed inside the proper RPM. This channel is freely accessible by all Würth IT's Customers.
 
 NEP's Repository on GitHub is *the development channel*: through it, it is possible to get the contents of all stable versions of NEP as well as the current development release. This makes possible for everyone to get NEP freely. Also, if anyone desires it, everyone can contribute to the development of the project.
 Even if NEPs have NetEye as their target platform, they can be used on any system that equips the same underlying software a NetEye system.
@@ -43,7 +43,7 @@ Only for NetEye SIEM:
 Installing from RPM Repository
 ==============================
 
-Installing NetEye Extension Packs from Wuerth IT's RPM Repository is fairly simple: just install the NEP RPM provided by the repository on the required NetEye Systems:
+Installing NetEye Extension Packs from Würth IT's RPM Repository is fairly simple: just install the NEP RPM provided by the repository on the required NetEye Systems:
 
 * If you have a NetEye Single-Node deployment, install the RPM on the Single-Node NetEye
 * If you have a NetEye Cluster deployment, install the RPM on all Cluster Nodes
