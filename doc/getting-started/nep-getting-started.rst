@@ -29,14 +29,14 @@ Install NEP on your NetEye Single Node
 
 Before installing NEP, ensure you have access to the right Online Repos as describet at :ref:`Enable access to external repos<nep-obtaining-nep-external-repos>`.
 
-As described at :ref:`Online Resources<nep-online-resources>` and :ref:`Obtaining NEP<nep-obtaining-nep>`, NEP can be installed on your NetEye from two sources. If you require the last stable version, install it from Wuerth Phoenix's RPM Repository. If you require the latest development release, install it from NEP's Public GitHub Repository. Just install from one of the two sources, and make sure you don't use both of them.
+As described at :ref:`Online Resources<nep-online-resources>` and :ref:`Obtaining NEP<nep-obtaining-nep>`, NEP can be installed on your NetEye from two sources. If you require the last stable version, install it from Wuerth IT's RPM Repository. If you require the latest development release, install it from NEP's Public GitHub Repository. Just install from one of the two sources, and make sure you don't use both of them.
 In both cases, make sure your NetEye has a working Internet Connection.
 
 
 
 Install NEP from RPM Repository
 -------------------------------
-To install NEP from from Wuerth Phoenix's RPM Repository ``neteye-contrib``, just use Yum to install ``neteye-nep`` RPM inside your NetEye Server:
+To install NEP from from Wuerth IT's RPM Repository ``neteye-contrib``, just use Yum to install ``neteye-nep`` RPM inside your NetEye Server:
 
 .. code:: bash
 
@@ -51,14 +51,14 @@ Now, all available NEP Contents are available from directory ``/usr/share/neteye
 Install NEP on your NetEye Cluster
 ==================================
 
-As described at :ref:`Online Resources<nep-online-resources>` and :ref:`Obtaining NEP<nep-obtaining-nep>`, NEP can be installed on your NetEye from two sources. If you require the last stable version, install it from Wuerth Phoenix's RPM Repository. If you require the latest development release, install it from NEP's Public GitHub Repository. Just install from one of the two sources, and make sure you don't use both of them.
+As described at :ref:`Online Resources<nep-online-resources>` and :ref:`Obtaining NEP<nep-obtaining-nep>`, NEP can be installed on your NetEye from two sources. If you require the last stable version, install it from Wuerth IT's RPM Repository. If you require the latest development release, install it from NEP's Public GitHub Repository. Just install from one of the two sources, and make sure you don't use both of them.
 In both cases, make sure your NetEye has a working Internet Connection.
 *Remember to perform the steps on all NetEye Opeartive Cluster Nodes when required.*
 
 
 Install NEP from RPM Repository
 -------------------------------
-To install NEP from from Wuerth Phoenix's RPM Repository ``neteye-contrib``, just use DNF to install neteye-nep RPM *on all Operative Cluster Nodes*:
+To install NEP from from Wuerth IT's RPM Repository ``neteye-contrib``, just use DNF to install neteye-nep RPM *on all Operative Cluster Nodes*:
 
 .. code:: bash
 

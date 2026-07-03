@@ -29,7 +29,7 @@ Although not officially supported, NEPs can still provide other kinds of objects
 
 Package structure
 =================
-An NEP Package is a method of distribution. It is versioned, and each version has a specific structure, allowing specific *extension* contents to be distributed. While a number of extension contents are supported by a specific package version, the package itself can contain objects that are originally not expected as custom (optional) contents. The package can also contain optional scripts to run before and after the main setup phase. Each NEP is packed inside one or more RPM files available through Wuerth Phoenix Repositories.
+An NEP Package is a method of distribution. It is versioned, and each version has a specific structure, allowing specific *extension* contents to be distributed. While a number of extension contents are supported by a specific package version, the package itself can contain objects that are originally not expected as custom (optional) contents. The package can also contain optional scripts to run before and after the main setup phase. Each NEP is packed inside one or more RPM files available through Wuerth IT Repositories.
 
 
 Latest Pack structure
