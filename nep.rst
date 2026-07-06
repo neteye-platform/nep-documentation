@@ -5,7 +5,7 @@
  NetEye Extension Packs
 ************************
 
-NetEye Extension Packs (NEP) are a way to deliver the full experience of Würth IT's NetEye to end users by employing a modular design. It allows fast startup for a brand new NetEye Infrastructure, and easy integration with an existing NetEye deployment, adding only the required features and components to system configuration.
+NetEye Extension Packs (NEP) are a way to deliver the full experience of |witit|'s NetEye to end users by employing a modular design. It allows fast startup for a brand new NetEye Infrastructure, and easy integration with an existing NetEye deployment, adding only the required features and components to system configuration.
 
 .. toctree::
     :maxdepth: 2

@@ -8,7 +8,7 @@ NetEye helps you take care of several aspects of IT Service Management, from mon
 * Does the chosen strategy allow for easy management of each object's lifecycle?
 * Can the chosen strategy easily and efficiently accommodate future growth, in terms of number of managed objects and of new functionalities?
 
-Every day, we at Würth IT deal with these questions, and our accumulated experience is then condensed into a common design that can be delivered to end users via modular packages, along with best practices and suggestions to get the most out of them. This enables:
+Every day, we at |witit| deal with these questions, and our accumulated experience is then condensed into a common design that can be delivered to end users via modular packages, along with best practices and suggestions to get the most out of them. This enables:
 
 * Fast implementation of an initial design
 * The ability to include only the required components, keeping the design's footprint as small as possible
@@ -20,7 +20,7 @@ This kind of logic not only applies to Monitoring, but also to all the other Net
 
 What are NetEye Extension Packs?
 ================================
-Essentially, a NetEye Extension Pack is the way Würth IT delivers to end users all our accumulated NetEye experience in the form of a modular design. In short, it is the crystallization of all experience accumulated by Würth IT in a specific field with NetEye, with an easy setup. It aims to build a new design for a fresh installation as fast as possible while keeping it in line with a standard that allows for easy management, extensibility and upgradeability. It can be used both within a brand new deployed NetEye infrastructure and can also be easily integrated into an existing setup.
+Essentially, a NetEye Extension Pack is the way |witit| delivers to end users all our accumulated NetEye experience in the form of a modular design. In short, it is the crystallization of all experience accumulated by |witit| in a specific field with NetEye, with an easy setup. It aims to build a new design for a fresh installation as fast as possible while keeping it in line with a standard that allows for easy management, extensibility and upgradeability. It can be used both within a brand new deployed NetEye infrastructure and can also be easily integrated into an existing setup.
 
 
 The idea behind NEPs
