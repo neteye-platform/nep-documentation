@@ -232,7 +232,7 @@ NEP Name                                                                        
 |link-pre|\ |neteye_version|\ |nep-monitoring-asset|                             Add-on for NetEye Self Monitoring to monitor the Asset Module                                       nep-monitoring-core
 |link-pre|\ |neteye_version|\ |nep-monitoring-vmd|                               Add-on for NetEye Self Monitoring to monitor the VMD Module                                         nep-monitoring-core
 |link-pre|\ |neteye_version|\ |nep-network-base|                                 Basic tools for advanced network monitoring via SNMP
-|link-pre|\ |neteye_version|\ |nep-network-audiocodes|                           Specific monitoring for AudioCodes devices via SNMP                                               nep-network-base, nep-centreon-plugins-base
+|link-pre|\ |neteye_version|\ |nep-network-audiocodes|                           Specific monitoring for AudioCodes devices via SNMP                                                 nep-network-base, nep-centreon-plugins-base
 |link-pre|\ |neteye_version|\ |nep-network-apc-netbotz|                          Specific monitoring for APC Netbotx                                                                 nep-network-base
 |link-pre|\ |neteye_version|\ |nep-network-cisco-standard|                       Specific monitoring for Cisco Standard via SNMP                                                     nep-network-base, nep-centreon-plugins-base
 |link-pre|\ |neteye_version|\ |nep-network-cisco-wlc|                            Specific monitoring for Cisco WLC Controller                                                        nep-network-base
