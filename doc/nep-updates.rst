@@ -7,5 +7,3 @@
 
 .. toctree::
     :maxdepth: 3
-
-
