@@ -7,5 +7,3 @@
 
 .. toctree::
     :maxdepth: 3
-
-    updates/upgrade-4.48.rst
