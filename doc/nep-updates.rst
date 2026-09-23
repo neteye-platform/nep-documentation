@@ -11,7 +11,7 @@ Breaking Change: Tenant Custom Variable Migration
 =================================================
 
 Starting with the current NetEye and NEP upgrade path, the legacy NEP tenant
-custom variable ``nx_neteye_tenant`` is no longer the reference used by NetEye features.
+custom variable ``nx_neteye_tenant`` is deprecated and replaced with a new variable.
 The supported tenant information is now stored in the host custom variable ``neteye_tenant``.
 
 Before upgrading NEP components, verify every host where ``nx_neteye_tenant`` is defined
@@ -25,15 +25,14 @@ or if ``neteye_tenant`` is missing or configured with an incorrect value.
 
 After verifying that the new variable is working as expected in the upgraded environment,
 you can remove the legacy ``nx_neteye_tenant`` variable from your host objects. This cleanup
-is strongly recommended, though non-mandatory for the upgrade to proceed.
+is strongly recommended, though the upgrade will complete successfully even if the variable remains.
 
 .. warning::
 
-   This operation is **irreversible**. While it is not strictly mandatory, it is strongly
+   The deprecated variable cleanup operation is **irreversible**. While it is not strictly mandatory, it is strongly
    recommended once you have verified that everything operates correctly after the upgrade.
 
-After all NEPs have been upgraded, variable ``nx_neteye_tenant`` can be removed and its
-contents wiped. To do so:
+To remove the variable ``nx_neteye_tenant`` and wipe its contents follow the next steps:
 
 1. Log into NetEye.
 2. In the main menu, select **Director**.
