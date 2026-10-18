@@ -96,6 +96,10 @@ This table describes all the available packages and their purposes, along with a
 
     /nep/nep-network-cisco-wlc/">nep-network-cisco-wlc</a>
 
+.. |nep-network-h3c| raw:: html
+
+    /nep/nep-network-h3c/">nep-network-h3c</a>
+
 .. |nep-network-dell-idrac| raw:: html
 
     /nep/nep-network-dell-idrac/">nep-network-dell-idrac</a>
@@ -236,6 +240,7 @@ NEP Name                                                                        
 |link-pre|\ |neteye_version|\ |nep-network-apc-netbotz|                          Specific monitoring for APC Netbotx                                                                 nep-network-base
 |link-pre|\ |neteye_version|\ |nep-network-cisco-standard|                       Specific monitoring for Cisco Standard via SNMP                                                     nep-network-base, nep-centreon-plugins-base
 |link-pre|\ |neteye_version|\ |nep-network-cisco-wlc|                            Specific monitoring for Cisco WLC Controller                                                        nep-network-base
+|link-pre|\ |neteye_version|\ |nep-network-h3c|                                 Specific monitoring for H3C network switches and routers via SNMP                                   nep-network-base, nep-centreon-plugins-base
 |link-pre|\ |neteye_version|\ |nep-network-dell-idrac|                           Specific monitoring for Dell iDRAC via SNMP                                                         nep-network-base
 |link-pre|\ |neteye_version|\ |nep-network-dell-switch|                          Specific monitoring for Dell Switch via SNMP                                                        nep-network-base, nep-centreon-plugins-base
 |link-pre|\ |neteye_version|\ |nep-network-citrix-load-balancer|                 Specific monitoring for Citrix Load Balancer via SNMP                                               nep-network-base, nep-centreon-plugins-base
@@ -290,6 +295,7 @@ This graph shows via a graphical view the dependencies between each NEP Package.
     ├───nep-centreon-plugins-base
     |   ├───nep-network-audiocodes
     |   ├───nep-network-cisco-standard
+    |   ├───nep-network-h3c
     |   ├───nep-influxdb-query
     |   ├───nep-network-dell-switch
     |   ├───nep-network-citrix-load-balancer
@@ -309,6 +315,7 @@ This graph shows via a graphical view the dependencies between each NEP Package.
     |   ├───nep-network-apc-netbotz
     |   ├───nep-network-cisco-standard
     |   ├───nep-network-cisco-wlc
+    |   ├───nep-network-h3c
     |   ├───nep-network-dell-idrac
     |   ├───nep-network-dell-switch
     |   ├───nep-network-checkpoint-firewall
