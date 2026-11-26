@@ -80,7 +80,7 @@ repos:
       - id: markdownlint-cli2
 
   - repo: https://github.com/renovatebot/pre-commit-hooks
-    rev: 0ea30826501998d088c4492b1243e03bfa601e6f # frozen: 43.218.0
+    rev: 0d32a1bf5907ce439db44857ee66f15266f0fff5 # frozen: 44.264.0
     hooks:
       - id: renovate-config-validator
         args: [--strict]
